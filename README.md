@@ -7,5 +7,5 @@ Just run setup.bat and thats it
 ```
 ## Usage
 ```bash
-Run the ytldp.py and Enjoy!
+Run the ytldp.bat and Enjoy!
 ```
