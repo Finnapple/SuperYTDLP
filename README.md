@@ -21,5 +21,4 @@ Run the installer:
 
 ```bash
 setup.bat
-Run the ytldp.bat and Enjoy!
 ```
